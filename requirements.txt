@@ -1,0 +1,7 @@
+
+moviepy
+requests
+Naked
+nltk
+pyttsx3
+beautifulsoup4
