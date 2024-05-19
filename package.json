@@ -1,0 +1,13 @@
+{
+  "name": "youtube-content-machine",
+  "version": "1.0.0",
+  "description": "Automate YouTube Shorts creation and upload",
+  "main": "uploader.js",
+  "scripts": {
+    "start": "node uploader.js"
+  },
+  "dependencies": {
+    "puppeteer": "^13.0.0",
+    "delay-random": "^1.0.0"
+  }
+}
